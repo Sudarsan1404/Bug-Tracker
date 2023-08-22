@@ -11,10 +11,9 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/bug-tracker-app.git
+git clone https://github.com/sudarsan1404/bug-tracker-app.git
 Navigate to the project directory:
 bash
-Copy code
 cd bug-tracker-app
 Install the required dependencies:
 bash
