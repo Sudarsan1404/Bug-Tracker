@@ -10,18 +10,16 @@ License
 Installation
 Clone the repository:
 bash
-Copy code
 git clone https://github.com/sudarsan1404/bug-tracker-app.git
 Navigate to the project directory:
 bash
 cd bug-tracker-app
 Install the required dependencies:
 bash
-Copy code
+
 npm install
 Start the server:
 bash
-Copy code
 npm start
 Open your web browser and go to http://localhost:8080 to access the bug tracker application.
 Usage
